@@ -1,4 +1,5 @@
-void testfunction()
+﻿void testfunction()
 {
 	printf("testtest");
+	鳥
 }
